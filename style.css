@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+}
+h3{
+    color: pink;
+    font-size: 120px;
+    background-color: black;
+}
+#nama{
+    border: 10px solid red;
+}
